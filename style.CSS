@@ -5,50 +5,23 @@ body, h1, h2, p {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f3f3f3;
+    background-color: #f5f6fa;
     color: #333;
 }
 
-header {
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
-    text-align: center;
+div.navbar{
+    height: 760px;
+    width: 100%;
+    border: #333;
+    box-shadow: 4px 4px 3px rgba(223, 10, 10, 0.1);
+    background-image: url('alfadrums.jpg');
+    background-attachment: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: fill;
+    display: block;
 }
 
-header h1 {
-    margin: 0;
-    font-size: 36px;
-}
-
-header p {
-    margin-top: 10px;
-}
-
-nav {
-    background-color: #444;
-    color: #fff;
-    padding: 10px;
-    text-align: center;
-}
-
-nav ul {
-    list-style-type: none;
-}
-
-nav li {
-    display: inline;
-    margin: 0 10px;
-}
-
-nav a {
-    color: #fff;
-    text-decoration: none;
-}
-
-main {
-    padding: 20px;
-}
 
 section {
     margin-bottom: 40px;
