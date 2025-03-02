@@ -44,7 +44,7 @@ ul{
    justify-content: flex-end;
     margin-right: 30px;
     margin-top: 20px;
-    text-shadow: 5px 5px 2px black;
+    text-shadow: 5px 5px 3px black;
    
    
    
@@ -108,12 +108,15 @@ ul{
   }
   .text1 {
     font-size: 60px;
+    text-shadow: 6px 7px 3px black;
   }
   .text2 {
     font-size: 169px;
+    text-shadow: 6px 7px 3px black;
   }
   .text3 {
     font-size: 100px;
+    text-shadow: 6px 7px 3px black;
   }
 
 section {
