@@ -25,8 +25,12 @@ div.navbar{
     object-fit: fill;
     display: block;
 }
-
-
+div.overlay{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 778px;
+    width: 100%;
+    display: block;
+}
 section {
     margin-bottom: 40px;
     padding: 20px;
