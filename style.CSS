@@ -59,6 +59,12 @@ ul{
    
     
 }
+.search{
+    width: max-content;
+    display: flex;
+    align-items: center;
+    
+}
 .plate {
     width: 410px;
     margin: 7% auto 0 40px;
