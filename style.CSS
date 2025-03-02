@@ -13,7 +13,7 @@ body {
     color: #333;
 }
 
-div.navbar{
+.navbar{
     height: 778px;
     width: 100%;
     border: #333;
@@ -23,14 +23,39 @@ div.navbar{
     background-repeat: no-repeat;
     background-size: cover;
     object-fit: fill;
-    display: block;
+    display: flex;
+    
+
 }
-div.overlay{
+.overlay{
     background-color: rgba(0, 0, 0, 0.5);
     height: 778px;
     width: 100%;
-    display: block;
+    justify-content: flex-end;
+   
+    
+   
 }
+ul{
+    list-style-type: none;
+   display: flex;
+   justify-content: flex-end;
+    margin-right: 20px;
+    margin-top: 20px;
+   
+   
+   
+}
+.nav-links a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+    font-family: 
+   
+    
+}
+
+
 section {
     margin-bottom: 40px;
     padding: 20px;
