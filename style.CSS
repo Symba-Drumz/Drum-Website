@@ -150,8 +150,14 @@ form{
     font-size: 100px;
     text-shadow: 6px 7px 3px black;
   }
- 
+ .container{
+    height: 400px;
+    width: 600px;
+    margin: 0 auto;
+    border: #222;
 
+ }
+ 
 section {
     margin-bottom: 40px;
     padding: 20px;
